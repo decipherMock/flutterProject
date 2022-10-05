@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "708924497988",
+    "project_id": "hotel-location-3b2bf",
+    "storage_bucket": "hotel-location-3b2bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708924497988:android:86f3ba75ed6e0f9c14dc11",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708924497988-3vl282m9vpecolgg0rphe5v6a6b0g50v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_1",
+            "certificate_hash": "f252196ceeacd575d6f63ccde26e173ab035303b"
+          }
+        },
+        {
+          "client_id": "708924497988-ms8m0jn0p25ontjobvsna2ovcc9bkk3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1iPeyXxyPOSQkYthFM4WlNnIkFmYU1Sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708924497988-ms8m0jn0p25ontjobvsna2ovcc9bkk3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
